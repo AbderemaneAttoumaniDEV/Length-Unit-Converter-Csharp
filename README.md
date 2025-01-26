@@ -26,7 +26,7 @@ Voici comment le programme fonctionne :
 2. L'utilisateur entre la valeur à convertir.
 3. Le programme affiche le résultat de la conversion.
 
-Les captures d'écran de l'exécution du programme peuvent être consultées dans la section **Issues** du dépôt pour avoir un aperçu du fonctionnement du programme dans un terminal.
+Les captures d'écran de l'exécution du programme peuvent être consultées dans la section <a href="https://github.com/AbderemaneAttoumaniDEV/Length-Unit-Converter-Csharp/issues/1" target="_blank">**Issues**</a> du dépôt pour avoir un aperçu du fonctionnement du programme dans un terminal.
 
 ## 📝 Exemples d'utilisation
 
